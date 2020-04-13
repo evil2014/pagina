@@ -1,2 +1,2 @@
-# Págiona personal
+# Página personal
 [evaldivia.org](evaldivia.org)
